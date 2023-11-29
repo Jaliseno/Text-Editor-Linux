@@ -16,4 +16,8 @@
   Vim merupakan singkatan dari Vi Improved, membawa perluasan yang signifikan dari editor teks klasik Vi. Dengan mempertahankan dua mode utama, yaitu Mode Normal dan Mode Pengeditan, Vim menyertakan fitur tambahan yang meningkatkan kenyamanan pengguna. Salah satu daya tarik utama Vim adalah antarmuka pengguna yang ditingkatkan, memberikan pengalaman yang lebih ramah pengguna dibandingkan dengan Vi asli. 
   Kelebihan lainnya terletak pada kemampuan Vim untuk mendukung plugin dan konfigurasi ekstensif, memungkinkan pengguna untuk menyesuaikan lingkungan kerja mereka sesuai kebutuhan. Sebagai pilihan yang lebih modern, Vim menjadi favorit banyak pengguna yang mencari keseimbangan antara tradisionalitas Vi dan keunggulan fitur modern.
 
+
+  ### Kesimpulan
+  Ketiga text editor, Nano, Vi, dan Vim, menawarkan pengalaman pengeditan teks dengan karakteristik yang berbeda. Nano, dengan kesederhanaannya, menjadi pilihan yang cocok untuk pemula dan pengguna yang mencari pengalaman pengeditan yang sederhana. Vi, sebagai editor teks klasik, menonjol dengan kekuatannya namun memerlukan tingkat pembelajaran yang tinggi sebelum dapat dimanfaatkan sepenuhnya. Sementara itu, Vim, sebagai perluasan dari Vi, memberikan pendekatan yang lebih modern dengan peningkatan fitur dan fleksibilitas konfigurasi. Dengan demikian, pemilihan antara ketiganya tergantung pada kebutuhan dan preferensi pengguna, baik itu kesederhanaan, kekuatan klasik, atau keseimbangan modernitas dan konfigurasi yang luas.
+
   
