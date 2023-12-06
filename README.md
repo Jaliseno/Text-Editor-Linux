@@ -14,7 +14,7 @@
   ### Text Editor Vi
   &nbsp; &nbsp; Vi merupakan editor teks klasik yang telah menjadi bagian integral dari lingkungan Unix dan Linux, menonjol dengan dua mode utama, yakni Mode Normal untuk navigasi dan Mode Pengeditan untuk menulis atau mengedit teks. Kendati menawarkan beragam fungsi pengeditan yang kuat, keunikan Vi terletak pada kurva pembelajaran yang tinggi, memerlukan waktu dan kesabaran bagi pengguna baru untuk menguasainya. Meskipun demikian, keunggulan Vi terletak pada berbagai fitur pengeditan yang canggih, menjadikannya pilihan yang kuat untuk para pengguna yang bersedia menginvestasikan waktu dalam pembelajaran.
 
- &nbsp; &nbsp;Untuk lebih detail dan lebih jelas tentang text editor Vi silakan Anda kunjungi tautan berikut: [Text Editor Nano](https://github.com/Jaliseno/Text-Editor-Nano)
+ &nbsp; &nbsp;Untuk lebih detail dan lebih jelas tentang text editor Vi silakan Anda kunjungi tautan berikut: [Text Editor Vi](https://github.com/Jaliseno/Text-Editor-Vi)
 
 
   ### Text Editor Vim
@@ -22,7 +22,7 @@
 
   Kelebihan lainnya terletak pada kemampuan Vim untuk mendukung plugin dan konfigurasi ekstensif, memungkinkan pengguna untuk menyesuaikan lingkungan kerja mereka sesuai kebutuhan. Sebagai pilihan yang lebih modern, Vim menjadi favorit banyak pengguna yang mencari keseimbangan antara tradisionalitas Vi dan keunggulan fitur modern.
 
- &nbsp; &nbsp;Untuk lebih detail dan lebih jelas tentang text editor Vim silakan Anda kunjungi tautan berikut: [Text Editor Nano](https://github.com/Jaliseno/Text-Editor-Nano)
+ &nbsp; &nbsp;Untuk lebih detail dan lebih jelas tentang text editor Vim silakan Anda kunjungi tautan berikut: [Text Editor Vim](https://github.com/Jaliseno/Text-Editor-Vim)
 
   ### Kesimpulan
   Ketiga text editor, Nano, Vi, dan Vim, menawarkan pengalaman pengeditan teks dengan karakteristik yang berbeda. Nano, dengan kesederhanaannya, menjadi pilihan yang cocok untuk pemula dan pengguna yang mencari pengalaman pengeditan yang sederhana. Vi, sebagai editor teks klasik, menonjol dengan kekuatannya namun memerlukan tingkat pembelajaran yang tinggi sebelum dapat dimanfaatkan sepenuhnya. Sementara itu, Vim, sebagai perluasan dari Vi, memberikan pendekatan yang lebih modern dengan peningkatan fitur dan fleksibilitas konfigurasi. Dengan demikian, pemilihan antara ketiganya tergantung pada kebutuhan dan preferensi pengguna, baik itu kesederhanaan, kekuatan klasik, atau keseimbangan modernitas dan konfigurasi yang luas.
