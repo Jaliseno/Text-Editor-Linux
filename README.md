@@ -5,7 +5,8 @@
 
   ### Text Editor Nano
   &nbsp; &nbsp;Nano merupakan editor teks yang dirancang untuk pengguna yang menginginkan pengalaman pengeditan yang sederhana dan mudah dipahami, membedakan dirinya dengan antarmuka pengguna yang ramah dan intuitif. Dengan menggunakan pintasan keyboard umum, Nano menjadi pilihan yang cocok untuk pengguna pemula yang tidak ingin menghadapi kompleksitas Vi dan Vim. 
-  Meskipun efektif dalam kesederhanaannya, Nano memiliki keterbatasan fitur jika dibandingkan dengan editor teks yang lebih canggih seperti Vi dan Vim. Kesederhanaan Nano menjadi daya tarik utamanya, menjadikannya pilihan yang mudah diakses bagi pengguna yang mencari pengeditan teks yang langsung dan tanpa kompleksitas yang berlebihan.
+ &nbsp; &nbsp;Meskipun efektif dalam kesederhanaannya, Nano memiliki keterbatasan fitur jika dibandingkan dengan editor teks yang lebih canggih seperti Vi dan Vim. Kesederhanaan Nano menjadi daya tarik utamanya, menjadikannya pilihan yang mudah diakses bagi pengguna yang mencari pengeditan teks yang langsung dan tanpa kompleksitas yang berlebihan.
+ &nbsp; &nbsp;Untuk lebih detail dan lebih jelas tentang text editor Nano silakan Anda kunjungi tautan berikut: [Text Editor Nano](https://github.com/Jaliseno/Text-Editor-Nano)
   
 
   ### Text Editor Vi
